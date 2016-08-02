@@ -1,5 +1,10 @@
 #**Tarea 2 PDI**
 
+**Desarrollo**
+
+La aplicacion fue desarollada en el lenguaje C# en Visual Studio 2015 para el  
+sistema operativo Windows. Para ejecutar basta con abrir el archivo ejecutable (.exe)  
+o abrir el archivo de formato .sln y ejecutar desde Visual Studio
 
 **Entrada y Salida**
 
@@ -18,8 +23,9 @@ comparar y presionar su respectivo botón. Para el brillo y el contraste debe de
 utilizar el slider para escoger el valor de su preferencia y presionar el botón   
 aceptar de la correspondiente operación. Para el escalamiento, deberá escoger  
 un nuevo alto y ancho después precione su correspondiente botón.  
-Para cancelar los cambios hechos, presione el botón *Cancelar Cambios* y para aplicarlos, presione el botón *Aplicar Cambios* .  
-Para guardar o abrir un archivo precione en el menu horizontal el botón *Archivo*
+Para cancelar los cambios hechos, presione el botón *Cancelar Cambios* y para  
+aplicarlos, presione el botón *Aplicar Cambios* . Para guardar o abrir un archivo  
+precione en el menu horizontal el botón *Archivo*
 
 
 **Informacón Adicional:**
@@ -32,5 +38,5 @@ y abiertas en un visualizador de imagenes apropiado.
 
 **Integrantes:**
 
-*Alexander Yammine V-23529986*
+*Alexander Yammine V-23529986*   
 *Daniel Rodriguez V-24883818*
